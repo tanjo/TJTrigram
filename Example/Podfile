@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TJTrigram_Example' do
+  pod 'TJTrigram', :path => '../'
+
+  target 'TJTrigram_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

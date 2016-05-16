@@ -1,0 +1,16 @@
+PODS:
+  - TJTrigram (0.1.0)
+
+DEPENDENCIES:
+  - TJTrigram (from `../`)
+
+EXTERNAL SOURCES:
+  TJTrigram:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TJTrigram: 47de0e5286f17480f39fc3a16475f5d305194675
+
+PODFILE CHECKSUM: 26fbbd5db1b6a858fdbff8c375a5c12c36decab4
+
+COCOAPODS: 1.0.0
