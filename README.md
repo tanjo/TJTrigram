@@ -1,6 +1,5 @@
 # TJTrigram
-
-[![CI Status](http://img.shields.io/travis/tanjo/TJTrigram.svg?style=flat)](https://travis-ci.org/tanjo/TJTrigram)
+[![CI Status](https://travis-ci.org/tanjo/TJTrigram.svg?branch=master)](https://travis-ci.org/tanjo/TJTrigram)
 [![Version](https://img.shields.io/cocoapods/v/TJTrigram.svg?style=flat)](http://cocoapods.org/pods/TJTrigram)
 [![License](https://img.shields.io/cocoapods/l/TJTrigram.svg?style=flat)](http://cocoapods.org/pods/TJTrigram)
 [![Platform](https://img.shields.io/cocoapods/p/TJTrigram.svg?style=flat)](http://cocoapods.org/pods/TJTrigram)
