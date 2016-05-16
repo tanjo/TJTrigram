@@ -48,16 +48,6 @@ public class TJTrigram: NSObject {
     public func result(target: String) -> Double {
         let (sharedWords, allWords) = self.result(target)
         
-//        var excludes: [String] = []
-//        
-//        for word in allWords {
-//            if !sharedWords.contains(word) {
-//                excludes.append(word)
-//            }
-//        }
-//        print(excludes)
-//        // ["バー！", "れて良", "11巻", "セ、セ", "タぁあ", "って良", "ンリエ", "サｧぁ", "！！タ", "ルミナ", "、シエ", "ｧぁあ", "説11", "1巻の", "期決ま", "！！ヴ", "タバサ", "シャナ", "アンリ", "！セ、", "2巻の", "セイバ", "シ、シ", "エッタ", "ヴィル", "ルヘル", "ヘルミ", "！シ、", "ター！", "2期決", "、セイ", "！タバ", "！！ア", "ミナぁ", "エスタ", "リエッ", "まって", "2期放", "ィルヘ", "スター", "ナぁあ", "！ヴィ", "イバー", "期放送", "！シャ", "送され", "決まっ", "！！セ", "説12", "ッタぁ", "放送さ", "バサｧ", "シエス", "ャナぁ", "12巻", "！アン"]
-        
         return Double(sharedWords.count) / Double(allWords.count)
     }
     
