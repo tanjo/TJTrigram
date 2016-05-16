@@ -29,7 +29,7 @@ TJTrigram is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "TJTrigram"
+pod "TJTrigram", :git => 'https://github.com/tanjo/TJTrigram.git'
 ```
 
 ## Author
