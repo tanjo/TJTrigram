@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  TJTrigram
 //
-//  Created by tanjo on 05/16/2016.
-//  Copyright (c) 2016 tanjo. All rights reserved.
-//
 
 import UIKit
 

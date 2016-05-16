@@ -7,6 +7,16 @@
 
 Measure the degree of similarity between texts.
 
+## Usage
+
+```swift
+import TJTrigram
+
+TJTrigram("hogefugapiyo").result("hogefuga")
+
+// result: 0.6
+```
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
